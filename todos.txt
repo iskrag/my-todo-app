@@ -2,4 +2,3 @@ Print the prictures
 Visit the museum
 Make dinner
 Do yoga
-New todo
